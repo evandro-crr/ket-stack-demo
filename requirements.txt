@@ -19,7 +19,7 @@ jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 jupyter-core==5.9.1
 kaleido==1.4.0
-ket-lang==0.10.4.1.dev1
+ket-lang==0.10.4.2
 kiwisolver==1.5.1
 logistro==2.0.1
 markupsafe==3.0.3
